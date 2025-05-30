@@ -25,7 +25,7 @@ The counter displays counts from **00 to 20**, then automatically resets.
 ## ⚙️ Features
 - Counts each time an object passes the IR sensor
 - Displays the count on a two-digit 7-segment display
-- Resets to 00 after counting 20 objects
+- Resets to 00 after counting 99 objects
 - Uses NAND gates and an RC filter to eliminate bounce and noise from the IR sensor
 - Simple, reliable design using basic logic ICs
 
