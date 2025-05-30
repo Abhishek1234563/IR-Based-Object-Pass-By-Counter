@@ -48,17 +48,8 @@ The counter displays counts from **00 to 20**, then automatically resets.
 
 ---
 
-## 📷 Demo
-*(Add a picture or video of your circuit in action here)*
-
----
-
 ## 📝 Future Improvements
-- Add an **audio/visual alert** when reaching 20.
+- Add an **audio/visual alert** when reaching 99.
 - Replace logic ICs with a **microcontroller (e.g. Arduino)** for more flexibility.
 - Implement a **memory function** to retain count on power-off.
 
----
-
-## 📄 License
-This project is open-source and available under the **MIT License**.
